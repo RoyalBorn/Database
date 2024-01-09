@@ -1,0 +1,14 @@
+C:\Users\QHTF\source\repos\GunshopInventorySystem\GunshopInventorySystem\bin\Debug\GunshopInventorySystem.exe.config
+C:\Users\QHTF\source\repos\GunshopInventorySystem\GunshopInventorySystem\bin\Debug\GunshopInventorySystem.exe
+C:\Users\QHTF\source\repos\GunshopInventorySystem\GunshopInventorySystem\bin\Debug\GunshopInventorySystem.pdb
+C:\Users\QHTF\source\repos\GunshopInventorySystem\GunshopInventorySystem\bin\Debug\MySql.Data.dll
+C:\Users\QHTF\source\repos\GunshopInventorySystem\GunshopInventorySystem\obj\Debug\GunshopInventorySystem.csproj.AssemblyReference.cache
+C:\Users\QHTF\source\repos\GunshopInventorySystem\GunshopInventorySystem\obj\Debug\GunshopInventorySystem.MainMenu_Frm.resources
+C:\Users\QHTF\source\repos\GunshopInventorySystem\GunshopInventorySystem\obj\Debug\GunshopInventorySystem.Properties.Firearms.resources
+C:\Users\QHTF\source\repos\GunshopInventorySystem\GunshopInventorySystem\obj\Debug\GunshopInventorySystem.Properties.FirearmTypes.resources
+C:\Users\QHTF\source\repos\GunshopInventorySystem\GunshopInventorySystem\obj\Debug\GunshopInventorySystem.Properties.Resources.resources
+C:\Users\QHTF\source\repos\GunshopInventorySystem\GunshopInventorySystem\obj\Debug\GunshopInventorySystem.csproj.GenerateResource.cache
+C:\Users\QHTF\source\repos\GunshopInventorySystem\GunshopInventorySystem\obj\Debug\GunshopInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\QHTF\source\repos\GunshopInventorySystem\GunshopInventorySystem\obj\Debug\GunshopInventorySystem.csproj.CopyComplete
+C:\Users\QHTF\source\repos\GunshopInventorySystem\GunshopInventorySystem\obj\Debug\GunshopInventorySystem.exe
+C:\Users\QHTF\source\repos\GunshopInventorySystem\GunshopInventorySystem\obj\Debug\GunshopInventorySystem.pdb
